@@ -1,6 +1,6 @@
 # Test Lazada
 
-A brief description of your project goes here.
+Welcome to the **Test Lazada** project.
 
 ## Prerequisites
 
